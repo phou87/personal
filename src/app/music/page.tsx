@@ -11,8 +11,8 @@ export default function Music() {
         </Text>
         <Text as="p" size="3">
           My family never played music at home, and they always listened to talk
-          radio. It wasn't until I got my first music player, an iPod Nano, that
-          it began transitioning into my biggest hobby.
+          radio. It wasn&apos;t until I got my first music player, an iPod Nano,
+          that it began transitioning into my biggest hobby.
         </Text>
         <Heading>Mixes</Heading>
         <SoundcloudEmbed embedSrc="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/834436348&color=%23ff5500&auto_play=true&visual=true" />

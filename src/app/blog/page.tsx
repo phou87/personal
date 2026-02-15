@@ -13,6 +13,7 @@ const POSTS = [
 export default function Blog() {
   return POSTS.map((post) => (
     <BlogPost
+      key={post.title}
       thumbnailUrl={`/blog/${post.thumbnail}`}
       title={post.title}
       url={`/blog/${post.url}`}
