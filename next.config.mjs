@@ -6,7 +6,7 @@ const nextConfig = {
   async redirects() {
     return [
       {
-        source: '/old-path',
+        source: '/leila',
         destination:
           'https://docs.google.com/document/d/1S60C9pyElrVVN4VEtbeOI9aS9nKb-6I_FcphOOofIhw',
         permanent: true,
